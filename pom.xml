@@ -22,7 +22,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.4.0</version>
         <configuration>
-        <mainClass>scripts.IE_Browser</mainClass>
+        <mainClass>scripts.FireFox_Browser</mainClass>
       </configuration>
       </plugin>
     </plugins>
